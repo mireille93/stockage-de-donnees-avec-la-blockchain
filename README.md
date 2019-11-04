@@ -4,4 +4,4 @@ Ce projet consistait à implementer une application décentralisée basée sur l
 
 https://drive.google.com/file/d/1XkdH_yjKK_IYbGbXpmoiltiM2L0R4_XZ/view?usp=sharing
 
-voici le lien du code vers Google drive le code est modifiable et ouvert a tous ceux qui voudraient l'ameliorer parce qu'il y existe toujours quelques bugs
+voici le lien du code vers Google drive le code est modifiable et ouvert a tous ceux qui voudraient l'ameliorer parce qu'il n'est pas parfait.
